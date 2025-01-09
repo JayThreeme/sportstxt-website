@@ -87,7 +87,7 @@ a {
 
 .hero {
   background: linear-gradient(90deg, rgb(0, 0, 0), rgba(0, 0, 0, 0)),
-    url("/assets/images/image6.jpg") 50% 65% / cover;
+    url("assets/images/image6.jpg") 50% 65% / cover;
   min-height: 400px;
   color: white;
   display: flex;
