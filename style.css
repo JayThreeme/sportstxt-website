@@ -217,3 +217,17 @@ a {
   background-color: #0b5ed7;
   color: #fff;
 }
+
+
+.carousel-inner {
+  display: flex; /* Align slides horizontally */
+}
+
+.carousel-item {
+  flex: 0 0 auto; /* Prevent shrinking */
+}
+
+.carousel-item img {
+  width: 300px; /* Adjust width of images */
+  height: auto; /* Keep images responsive */
+}
