@@ -21,7 +21,7 @@ Sportstxt : Creating Value Off the Pitch with a Fan First Engagement Platform
 
 For questions or feedback, feel free to reach out:
 
-- **Email**: [your-email@example.com](mailto:jayjucarjr@gmail.com)
-- **GitHub**: [your-username](https://github.com/JayThreeme)
+- **Email**: [MAIL](mailto:jayjucarjr@gmail.com)
+- **GitHub**: [LINK](https://github.com/JayThreeme)
 
 ---
