@@ -44,6 +44,24 @@ a {
   }
 }
 
+.section{
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #015da8;
+  color: white;
+  padding: 5rem 0;
+
+}
+
+@media (max-width: 768px){
+  .mission{
+    height:auto
+    min-height:50vh
+  }
+}
+
 .selected {
   color: #e71b27;
   text-decoration: none;
@@ -155,11 +173,6 @@ a {
 }
 
 /* feature */
-.feature-icon {
-  width: 280px;
-
-  object-fit: contain;
-}
 
 .feature-item {
   padding: 1rem 0;
